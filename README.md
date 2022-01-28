@@ -74,9 +74,9 @@
     </td>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>Data Science Internship at Letsgrowmore</i></a> </li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship"><i>Machine Learning Internship at ZeboAI</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship"><i>Machine Learning Internship at Grroom</i></a></li>
+        <li><a target="_blank" href="https://github.com/rohitsahu70/Data-Science-intern-at-LetsGrowMore.git"><i>Data Science Internship at Letsgrowmore</i></a> </li>
+        <li><a target="_blank" href="https://github.com/rohitsahu70/Machine-Learning-intern-at-Zebo-AI.git"><i>Machine Learning Internship at ZeboAI</i></a></li>
+        <li><a target="_blank" href="https://github.com/rohitsahu70/Machine-Learning-intern-at-Grroom.git"><i>Machine Learning Internship at Grroom</i></a></li>
       </ul>
     </td>
   <tr>
