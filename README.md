@@ -1,15 +1,15 @@
-## Hi there, I am Venu Gopal!<img height="60" width="60" src="./assets/hi.gif" />
+## Hi there, I am Rohit Sahu!<img height="60" width="60" src="./assets/hi.gif" />
 <i>I am a self taught <b>Python Programmer</b>.</i>
 <i>
   
 <img align="right" height="250" width="350" src="./assets/typing_man.gif" />
 <br>
 <ul>
-        <li>🔭 Machine Learning and Deep Learning Enthusiast.</li>
-        <li>💼 Currently persuing my third year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.</li>
+        <li>🔭 Data Science,Machine Learning and Deep Learning Enthusiast.</li>
+        <li>💼 Currently persuing my third year of Bachelor's Degree in Computer Science Engineering at Institute of Technology and Management.</li>
         <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
-        <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/venugopalkadamba">LinkedIn</a>.</li>
+        <li>📫 You can reach me via <a target="_blank" href="https://www.linkedin.com/in/rohit-sahu-797657206/">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I am fitness freak.</li>
       </ul>
 </i>
@@ -18,16 +18,16 @@
 <div align="center">
 
 ## Github Stats
-<a href="https://github.com/venugopalkadamba">
-  <img align="center" alt="Venu Gopal Github Stats" src="https://github-readme-stats.vercel.app/api?username=venugopalkadamba&show_icons=true&theme=tokyonight">
+<a href="https://github.com/rohitsahu70">
+  <img align="center" alt="Rohit Sahu Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitsahu70&show_icons=true&theme=tokyonight">
 </a>
 </div>
 
 <div align="center">
 
 ## Top Languages
-<a href="https://github.com/venugopalkadamba">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalkadamba&theme=tokyonight&layout=compact">
+<a href="https://github.com/rohitsahu70">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsahu70&theme=tokyonight&layout=compact">
 </a>
  </div>
 
