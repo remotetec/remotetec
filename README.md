@@ -46,16 +46,16 @@
         <li><a target="_blank" href = "https://github.com/rohitsahu70/Analysis-and-Prediction-on-diffrent-datasets.git"><i>Analysis and Prediction on diffrent datasets</i></a></li>
         <li><a target="_blank" href = "https://github.com/rohitsahu70/healthify-stroke-prediction.git"><i>Healtify Stroke prediction</i></a></li> 
         <li><a target="_blank" href = "https://github.com/rohitsahu70/HealthBay-Daignosis-Application.git"><i>Healthway</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App"><i></i></a></li>
+<!--         <li><a target="_blank" href="https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App"><i></i></a></li> -->
       </ul> 
     </td>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Verification_based_Attendance_system"><i>Face Verification based Attendance System</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Emotion_Recognition"><i>Face Emotion Recogniton</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>American Sign Language Detection</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Social_Media_WebApp_with_FaceVerification_Login"><i>Social Media WebApp with Face Verification Login</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Mask_Detector"><i>Face Mask Detector</i></a></li>
+        <li><a target="_blank" href="https://github.com/rohitsahu70/Face-Recognition-Attendance-System.git"><i>Face Recogition Attendance System</i></a></li>
+<!--         <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Emotion_Recognition"><i>Face Emotion Recogniton</i></a></li> -->
+<!--         <li><a target="_blank" href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>American Sign Language Detection</i></a></li> -->
+<!--         <li><a target="_blank" href="https://github.com/venugopalkadamba/Social_Media_WebApp_with_FaceVerification_Login"><i>Social Media WebApp with Face Verification Login</i></a></li> -->
+<!--         <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Mask_Detector"><i>Face Mask Detector</i></a></li> -->
       </ul>
     </td>
   </tr>
@@ -66,16 +66,17 @@
   <tr>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Movie-Recommendation-System-ML-React-Flask"><i>Movie Recommendation System</i></a></li>
+<!--         <li><a target="_blank" href="https://github.com/venugopalkadamba/Movie-Recommendation-System-ML-React-Flask"><i>Movie Recommendation System</i></a></li>
         <li><a target="_blank" href="https://github.com/venugopalkadamba/Text_Summarizer_NLP_Project"><i>Text Summarizer using Text Rank Algorithm</i></a> </li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp"><i>SMS Spam Detection</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Fake_News_Detector"><i>Fake News Detector</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp"><i>SMS Spam Detection</i></a></li> -->
+<!--         <li><a target="_blank" href="https://github.com/venugopalkadamba/Fake_News_Detector"><i>Fake News Detector</i></a></li> -->
       </ul>
     </td>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>Data Science Internship at Technocolabs</i></a> </li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship"><i>Data Science and Analytics Internship at The Sparks Foundation</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>Data Science Internship at Letsgrowmore</i></a> </li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship"><i>Machine Learning Internship at ZeboAI</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship"><i>Machine Learning Internship at Grroom</i></a></li>
       </ul>
     </td>
   <tr>
@@ -88,9 +89,9 @@
 <div align="center">
 
 ## Follow Me At
-<a href="https://linkedin.com/in/venugopalkadamba"><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/venugopal_2001"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/KadambaVenu"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rohit-sahu-797657206/"><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=""><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=""><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
