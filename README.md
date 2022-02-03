@@ -60,7 +60,7 @@
     </td>
   </tr>
   <tr>
-    <th>NLP</th>
+    <th>NLP</th> 
     <th>Internships</th>
   </tr>
   <tr>
