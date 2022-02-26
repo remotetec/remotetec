@@ -37,9 +37,7 @@
 <a href="https://www.linkedin.com/in/rohit-sahu-797657206/"><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=""><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=""><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 </div>
-
 <div align="center">
 <b>❤️ Thank you for visiting my Github Profile ❤️</b>
 </div>
