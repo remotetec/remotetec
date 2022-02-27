@@ -10,7 +10,6 @@
         <li>🤔 Areas of Interest: Data Science, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://www.linkedin.com/in/rohit-sahu-797657206/">LinkedIn</a>.</li>
-        <li>⚡ Fun fact: I am fitness freak.</li>
       </ul>
 </i>
 <br/>
