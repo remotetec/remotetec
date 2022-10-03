@@ -16,11 +16,7 @@
 
 <div align="center">
 
-## Github Stats
-<a href="https://github.com/rohitsahu70">
-  <img align="center" alt="Rohit Sahu Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitsahu70& show_icons=true&theme=tokyonight">
-</a>
-</div>
+
 
 <div align="center">
 
