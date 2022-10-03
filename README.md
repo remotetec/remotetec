@@ -29,7 +29,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsahu70&theme=tokyonight&layout=compact">
 </a>
  </div>
-
 <div align="center">
 
 ## Follow Me At
